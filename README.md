@@ -1,4 +1,4 @@
-# 📝 Task Manager Web App
+# 📝Simple Task Manager Web App
 
 I built this project using **React** because I’m familiar with it and believe we can build better and more dynamic applications compared to plain HTML/CSS.
 
