@@ -62,4 +62,6 @@
     background-color: #1e293b; 
     color: white;
     justify-content: center;
+    position: sticky;
+    top: 80rem;
   }
