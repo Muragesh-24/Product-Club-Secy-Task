@@ -3,8 +3,8 @@
 I built this project using **React** because I’m familiar with it and believe we can build better and more dynamic applications compared to plain HTML/CSS.
 
 ## 🔗 Live Website
-[Click here to visit the live website](#)  
-_(Replace the `#` with your actual deployed link)_
+[Click here to visit the live website](https://product-club-secy-task.vercel.app/)  
+_
 
 ---
 
